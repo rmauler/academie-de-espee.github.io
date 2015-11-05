@@ -16,15 +16,15 @@ roster:
      sponsors: Master Giacomo, Lord Celric, and Lord Arghylle
    - name: Torse Hartman
      location: Hawkwood
-     date:
+     date: 4/26/2014
      form:
-     event:
-     sponsors:
+     event: Hawkwood Baronial Birthday
+     sponsors: Lord Greylond, Lord Raphael, and Lord Matteo
    - name: Angeline Falconis
      location: Lochmere
      date:
      form:
-     event:
+     event: Gulf Wars 
      sponsors:
    - name: Sanada Terasu
      location: Sudentorre
@@ -33,19 +33,25 @@ roster:
      event: Holiday Faire
      sponsors: Master Dante, Lord Benjamin, and Lord Brian
    - name: Colin McNab
+     location: Storvik
+     date: 09/13/2014
+     form: 
+     event: Battle on the Bay
+     sponsors: Master Alan, Master Connor, and Lord Celric
    - name: Gilig von Baden
+     location: Shire of Roxbury Mill
    - name: Aedh Ua Ruaic
      location: Kappellenberg
-     date:
+     date: 5/25/13
      form:
-     event:
-     sponsors:
+     event: Ruby Joust
+     sponsors: Maestro Dante, Master Wistric, and Master Connor
    - name: Gawin Kappler
      location: Calontir
-     date:
+     date: 5/11/13
      form:
-     event:
-     sponsors:
+     event: A Day by the Black Sea
+     sponsors: Maestro Dante, Master Wistric, and Lord Raphael
    - name: Jean Maurice le Marinier
    - name: Ella de Lille
    - name: Symone de la Rochelle
@@ -58,7 +64,7 @@ roster:
      event:
      sponsors: Percival Aldridge, ?, ?
    - name: Kenji Yoshimoto
-     location: Bright Hills
+     location: Lochmere
    - name: Etain of Sutherland
      location: Nottinghill Coill
      date:
@@ -138,6 +144,18 @@ roster:
      event:
      sponsors:
    - name: Ylsa Broussard
+   - name: Aldemere McRafe
+     location: Black Diamond
+     date: 11/19/2011
+     form:
+     event: Holiday Faire
+     sponsors: Lord Celric, Lord Dominyk, and Lord Raphael
+   - name: Tassin
+     location: 
+     date: 5/26/13
+     form: 
+     event: Ruby Joust
+     sponsors: Maestro Dante, Master Wistric, and Lord Raphael
 ---
 
 <table class="pure-table pure-table-bordered">
